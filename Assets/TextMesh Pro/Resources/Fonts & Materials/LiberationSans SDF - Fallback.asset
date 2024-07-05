@@ -3,7 +3,11 @@
 --- !u!21 &2180264
 Material:
 <<<<<<< HEAD
+<<<<<<< HEAD
   serializedVersion: 8
+=======
+  serializedVersion: 6
+>>>>>>> origin/main
 =======
   serializedVersion: 6
 >>>>>>> origin/main
@@ -14,10 +18,14 @@ Material:
   m_Name: LiberationSans SDF Material
   m_Shader: {fileID: 4800000, guid: fe393ace9b354375a9cb14cdbbc28be4, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
+=======
+  m_ShaderKeywords: 
+>>>>>>> origin/main
 =======
   m_ShaderKeywords: 
 >>>>>>> origin/main
@@ -28,7 +36,10 @@ Material:
   stringTagMap: {}
   disabledShaderPasses: []
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LockedProperties: 
+=======
+>>>>>>> origin/main
 =======
 >>>>>>> origin/main
   m_SavedProperties:
@@ -83,7 +94,10 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Ints: []
+=======
+>>>>>>> origin/main
 =======
 >>>>>>> origin/main
     m_Floats:
@@ -127,9 +141,15 @@ Material:
     - _PerspectiveFilter: 0.875
     - _Reflectivity: 10
 <<<<<<< HEAD
+<<<<<<< HEAD
     - _ScaleRatioA: 0.9
     - _ScaleRatioB: 0.73125
     - _ScaleRatioC: 0.73125
+=======
+    - _ScaleRatioA: 0.90909094
+    - _ScaleRatioB: 0.73125
+    - _ScaleRatioC: 0.7386364
+>>>>>>> origin/main
 =======
     - _ScaleRatioA: 0.90909094
     - _ScaleRatioB: 0.73125
@@ -174,7 +194,10 @@ Material:
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
     - _UnderlayColor: {r: 0, g: 0, b: 0, a: 0.5}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_BuildTextureStacks: []
+=======
+>>>>>>> origin/main
 =======
 >>>>>>> origin/main
 --- !u!114 &11400000
@@ -195,24 +218,33 @@ MonoBehaviour:
   m_Version: 1.1.0
   m_SourceFontFileGUID: e3265ab4bf004d28a9537516768c1c75
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_SourceFontFile_EditorRef: {fileID: 12800000, guid: e3265ab4bf004d28a9537516768c1c75, type: 3}
   m_SourceFontFile: {fileID: 12800000, guid: e3265ab4bf004d28a9537516768c1c75, type: 3}
   m_AtlasPopulationMode: 1
   m_FaceInfo:
     m_FaceIndex: 0
 =======
+=======
+>>>>>>> origin/main
   m_SourceFontFile_EditorRef: {fileID: 12800000, guid: e3265ab4bf004d28a9537516768c1c75,
     type: 3}
   m_SourceFontFile: {fileID: 12800000, guid: e3265ab4bf004d28a9537516768c1c75, type: 3}
   m_AtlasPopulationMode: 1
   m_FaceInfo:
+<<<<<<< HEAD
+>>>>>>> origin/main
+=======
 >>>>>>> origin/main
     m_FamilyName: Liberation Sans
     m_StyleName: Regular
     m_PointSize: 86
     m_Scale: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_UnitsPerEM: 0
+=======
+>>>>>>> origin/main
 =======
 >>>>>>> origin/main
     m_LineHeight: 98.8916
@@ -355,13 +387,17 @@ Texture2D:
   m_ForcedFallbackFormat: 4
   m_DownscaleFallback: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_IsAlphaChannelOptional: 0
+=======
+>>>>>>> origin/main
 =======
 >>>>>>> origin/main
   serializedVersion: 2
   m_Width: 0
   m_Height: 0
   m_CompleteImageSize: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_MipsStripped: 0
   m_TextureFormat: 1
@@ -374,11 +410,16 @@ Texture2D:
   m_StreamingMipmapsPriority: 0
   m_VTOnly: 0
 =======
+=======
+>>>>>>> origin/main
   m_TextureFormat: 1
   m_MipCount: 1
   m_IsReadable: 1
   m_StreamingMipmaps: 0
   m_StreamingMipmapsPriority: 0
+<<<<<<< HEAD
+>>>>>>> origin/main
+=======
 >>>>>>> origin/main
   m_AlphaIsTransparency: 0
   m_ImageCount: 1
@@ -394,11 +435,17 @@ Texture2D:
   m_LightmapFormat: 0
   m_ColorSpace: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_PlatformBlob: 
   image data: 0
   _typelessdata: 
   m_StreamData:
     serializedVersion: 2
+=======
+  image data: 0
+  _typelessdata: 
+  m_StreamData:
+>>>>>>> origin/main
 =======
   image data: 0
   _typelessdata: 
